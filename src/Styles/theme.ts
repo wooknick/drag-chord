@@ -12,6 +12,9 @@ const theme: DefaultTheme = {
     tablet: "720px",
     mobile: "100%",
   },
+  fonts: {
+    chord: `'Caveat', cursive;`,
+  },
 };
 
 export default theme;

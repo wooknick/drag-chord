@@ -13,5 +13,8 @@ declare module "styled-components" {
       tablet: string;
       mobile: string;
     };
+    fonts: {
+      chord: string;
+    };
   }
 }
